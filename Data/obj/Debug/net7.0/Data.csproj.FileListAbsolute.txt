@@ -1,0 +1,15 @@
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+E:\Repos\Migrator\Sincro\Data\bin\Debug\net7.0\Data.deps.json
+E:\Repos\Migrator\Sincro\Data\bin\Debug\net7.0\Data.dll
+E:\Repos\Migrator\Sincro\Data\bin\Debug\net7.0\Data.pdb
+E:\Repos\Migrator\Sincro\Data\bin\Debug\net7.0\Dependencias.dll
+E:\Repos\Migrator\Sincro\Data\bin\Debug\net7.0\Dependencias.pdb
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\Data.dll
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\refint\Data.dll
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\Data.pdb
+E:\Repos\Migrator\Sincro\Data\obj\Debug\net7.0\ref\Data.dll

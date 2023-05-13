@@ -1,0 +1,12 @@
+E:\Repos\Migrator\Sincro\Dependencies\bin\Debug\net7.0\Dependencias.deps.json
+E:\Repos\Migrator\Sincro\Dependencies\bin\Debug\net7.0\Dependencias.dll
+E:\Repos\Migrator\Sincro\Dependencies\bin\Debug\net7.0\Dependencias.pdb
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\Dependencias.csproj.AssemblyReference.cache
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\Dependencias.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\Dependencias.AssemblyInfoInputs.cache
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\Dependencias.AssemblyInfo.cs
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\Dependencias.csproj.CoreCompileInputs.cache
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\Dependencias.dll
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\refint\Dependencias.dll
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\Dependencias.pdb
+E:\Repos\Migrator\Sincro\Dependencies\obj\Debug\net7.0\ref\Dependencias.dll
